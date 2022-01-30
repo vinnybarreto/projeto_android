@@ -61,10 +61,13 @@ main{
     max-width: 1000px;
     min-width: 300px;
     background-color: #fff;
-    text-align: justify;
     padding: 20px;
     border-radius: 0px 0px 8px 8px;
     box-shadow: 2px 2px 2px 0px rgba(66, 65, 65, 0.233);
+}
+
+main p{
+    text-align: justify;
 }
 .android{
     font-family: 'Android', Arial, sans-serif;
